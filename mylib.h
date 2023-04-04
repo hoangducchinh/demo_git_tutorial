@@ -1,0 +1,1 @@
+double f_c_conv(double fareinheit);
